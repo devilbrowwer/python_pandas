@@ -1,0 +1,5 @@
+1、read函数
+参数：sep
+sep = str, sep_value_list = [",", "/t", " "]
+sep的值为csv文件的分隔符
+
